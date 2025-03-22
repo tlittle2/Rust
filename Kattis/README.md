@@ -5,5 +5,6 @@
 | Loops  |Reduplication, Hipp Hipp,Telja|
 | Control Flow  |Stórafmæli|
 | Pattern Matching |Lubbi Lærir,Takkar|
-| Functional Programming |Óvissa|
+| Functional Programming |Óvissa,Blaðra|
+| Maps | |
 
