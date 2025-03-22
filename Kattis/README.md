@@ -2,9 +2,9 @@
 
 | Concept  | Problems |
 | ------------- | ------------- |
-| Loops  |Reduplication, Hipp Hipp,Telja|
-| Control Flow  |Stórafmæli|
-| Pattern Matching |Lubbi Lærir,Takkar|
-| Functional Programming |Óvissa,Blaðra|
-| Maps | |
+| Loops|Reduplication, Hipp Hipp,Telja|
+| Control Flow|Stórafmæli|
+| Pattern Matching|Lubbi Lærir,Takkar|
+| Functional Programming|Óvissa,Blaðra|
+| Maps|Dagatal|
 
