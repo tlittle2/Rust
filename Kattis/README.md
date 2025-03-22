@@ -2,4 +2,4 @@
 
 | Concept  | Problems |
 | ------------- | ------------- |
-| Loops  | Reduplication, |
+| Loops  | Reduplication, Hipp Hipp|
