@@ -22,7 +22,7 @@ fn main() {
     let word = process_string_input(String::new());
     let occur = process_i32input(String::new());
 
-    for _ in 1..occur+1{
+    for _ in 0..occur{
         print!("{}", word);
     }
 
