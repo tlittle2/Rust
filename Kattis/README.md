@@ -2,7 +2,7 @@
 
 | Concept  | Problems |
 | ------------- | ------------- |
-| Loops  | Reduplication, Hipp Hipp|
+| Loops  | Reduplication, Hipp Hipp,Telja|
 | Control Flow  | Stórafmæli|
 | Pattern Matching | |
 
