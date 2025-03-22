@@ -2,8 +2,8 @@
 
 | Concept  | Problems |
 | ------------- | ------------- |
-| Loops  | Reduplication, Hipp Hipp,Telja |
-| Control Flow  | Stórafmæli |
-| Pattern Matching | Lubbi Lærir |
-| Functional Programming | Óvissa |
+| Loops  |Reduplication, Hipp Hipp,Telja|
+| Control Flow  |Stórafmæli|
+| Pattern Matching |Lubbi Lærir|
+| Functional Programming |Óvissa|
 
