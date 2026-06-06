@@ -2,9 +2,9 @@ use std::{collections::{HashMap}, io};
 
 fn main() {
     let mp = HashMap::from([
-        ("ml gin", 45),
-        ("ml fresh lemon juice", 30),
-        ("ml simple syrup", 10),
+        (45, "ml gin"),
+        (30, "ml fresh lemon juice"),
+        (10, "ml simple syrup"),
     ]);
 
     let mut buf = String::new();
@@ -15,7 +15,7 @@ fn main() {
     buf.clear();
 
     let mut output: HashMap<i32, &str> = mp.iter().fold(HashMap::new(), |mut acc, x| {
-        acc.insert(x.1 * ip, x.0);
+        acc.insert(x.0 * ip, x.1);
         acc
     });
     
